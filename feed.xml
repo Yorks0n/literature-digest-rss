@@ -15,6 +15,98 @@
 </description>
 </item>
 <item>
+<title>每日文献推荐 · 2026-11-24</title>
+<link>https://yorks0n.github.io/literature-digest-rss/feed.xml#2026-11-24</link>
+<guid isPermaLink="false">urn:literature-digest:2026-11-24</guid>
+<pubDate>Tue, 24 Nov 2026 08:31:00 +0800</pubDate>
+<description>&lt;!doctype html&gt;&lt;html lang=&quot;zh&quot;&gt;&lt;head&gt;&lt;meta charset=&quot;utf-8&quot;&gt;
+&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width,initial-scale=1&quot;&gt;
+&lt;title&gt;文献精选 2026-11-24&lt;/title&gt;&lt;style&gt;body{font-family:-apple-system,sans-serif;max-width:680px;margin:auto;padding:12px;line-height:1.6;color:#222;background:#fafafa}.c{background:#fff;border-radius:10px;padding:12px 14px;margin:12px 0}.t{font-weight:600}.v{color:#777;font-size:.9em}.n{color:#8a5a00;font-size:.85em}.r{color:#0a6b4f}a{color:#1a5fb4;word-break:break-all}.top{color:#666;font-size:.9em;margin:4px 0 12px}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;
+&lt;h1&gt;文献精选 2026-11-24（10 篇）&lt;/h1&gt;
+&lt;div class=&quot;c&quot;&gt;
+&lt;div class=&quot;t&quot;&gt;1. A CPK28–GS2 phosphorylation switch uncouples nitrogen-promoted growth from disease susceptibility&lt;/div&gt;
+&lt;div lang=&quot;zh-CN&quot;&gt;CPK28–GS2 磷酸化开关将氮促生长与病害易感性解耦&lt;/div&gt;
+&lt;div class=&quot;v&quot;&gt;New Phytologist · 2026-11-23&lt;/div&gt;
+&lt;p&gt;氮肥在促产的同时增加植物感病性(氮诱发病害易感 NIS)。该文在番茄中发现氮同化关键酶谷氨酰胺合成酶 GS2 同时促进生物量累积和对青枯菌的易感;钙依赖蛋白激酶 CPK28 依赖硝酸盐在 Ser334 磷酸化 GS2,改变其亚细胞定位、扰动苯丙烷途径,使木质素沉积减少而更易发生细菌性萎蔫;而磷酸化失活的 GS2-S334A 变体可在不减产的前提下消除 NIS。&lt;/p&gt;
+&lt;p class=&quot;r&quot;&gt;推荐理由：把「多施氮易发病」这个田间老现象解析到单个磷酸化位点,还给出保产量兼抗病的工程入口——作物与免疫交叉点上很值得一读。&lt;/p&gt;
+&lt;a href=&quot;https://doi.org/10.1111/nph.71770&quot;&gt;https://doi.org/10.1111/nph.71770&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;c&quot;&gt;
+&lt;div class=&quot;t&quot;&gt;2. scDCF: detecting disease-associated cells from scRNA-seq using GWAS findings and healthy reference panels&lt;/div&gt;
+&lt;div lang=&quot;zh-CN&quot;&gt;scDCF:结合 GWAS 发现与健康参考 panel,从单细胞转录组中检测疾病相关细胞&lt;/div&gt;
+&lt;div class=&quot;v&quot;&gt;Genome Biology · 2026-11-19&lt;/div&gt;
+&lt;p&gt;把 GWAS 优先化的疾病风险基因与单细胞 RNA 测序整合,用文库大小匹配的健康参考细胞和表达匹配的对照基因做基线校正,把遗传风险定位到疾病富集的细胞群与转录程序;在模拟数据及系统性红斑狼疮、干燥综合征、慢性肾病队列中得到验证。&lt;/p&gt;
+&lt;p class=&quot;r&quot;&gt;推荐理由：GWAS 信号如何落到具体细胞类型是单细胞遗传学的核心问题,「健康参考+匹配对照」的严格设计对扰动与疾病建模思路很有借鉴价值。&lt;/p&gt;
+&lt;a href=&quot;https://doi.org/10.1186/s13059-026-04347-w&quot;&gt;https://doi.org/10.1186/s13059-026-04347-w&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;c&quot;&gt;
+&lt;div class=&quot;t&quot;&gt;3. ABAQS: A comprehensive scoring method for assessing genome annotation quality&lt;/div&gt;
+&lt;div lang=&quot;zh-CN&quot;&gt;ABAQS:一套全面评估基因组注释质量的打分方法&lt;/div&gt;
+&lt;div class=&quot;v&quot;&gt;Bioinformatics · 2026-11-20&lt;/div&gt;
+&lt;p&gt;针对基因组注释准确性难度量的问题,提出同时评估基因组完整度、基因模型有效性与蛋白谱准确度的 ABAQS,并在 1700 多个真核真菌与藻类基因组上验证稳健性,提供比 BUSCO、PSAURON 等更完整的注释质量画像;软件开源于 GitHub 并提供 Docker 镜像。&lt;/p&gt;
+&lt;p class=&quot;r&quot;&gt;推荐理由：比较基因组分析先挑「注释质量可比」的物种再动手是硬需求,这个工具把经验判断变成可计算分数。&lt;/p&gt;
+&lt;a href=&quot;https://doi.org/10.1093/bioinformatics/btag832&quot;&gt;https://doi.org/10.1093/bioinformatics/btag832&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;c&quot;&gt;
+&lt;div class=&quot;t&quot;&gt;4. UAV-assisted GWAS identifies candidate loci associated with tuber yield and maximum canopy area in autotetraploid potato&lt;/div&gt;
+&lt;div lang=&quot;zh-CN&quot;&gt;无人机辅助 GWAS 定位四倍体马铃薯块茎产量与最大冠层面积的候选位点&lt;/div&gt;
+&lt;div class=&quot;v&quot;&gt;Frontiers in Plant Science · 2026-11-23&lt;/div&gt;
+&lt;p&gt;对 279 个欧洲四倍体马铃薯品种结合遥感冠层表型与 SNP 芯片分型做全基因组关联分析,用非加性等位基因剂量模型找到产量 8 个、UAV 最大冠层面积 2 个显著 SNP,归入 5 个候选 QTL 区;候选基因集中于果胶甲/乙酰酯酶等细胞壁修饰与碳水化合物代谢过程。&lt;/p&gt;
+&lt;p class=&quot;r&quot;&gt;推荐理由：无人机表型组 × 剂量模型 GWAS 的组合,是四倍体作物复杂数量性状定位的方法样板。&lt;/p&gt;
+&lt;a href=&quot;https://doi.org/10.3389/fpls.2026.1988795&quot;&gt;https://doi.org/10.3389/fpls.2026.1988795&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;c&quot;&gt;
+&lt;div class=&quot;t&quot;&gt;5. Limitations of gene-dense datasets for inferring relationships in rapid radiations: An example from the Ice Plants&lt;/div&gt;
+&lt;div lang=&quot;zh-CN&quot;&gt;基因密集数据集推断快速辐射谱系关系的局限:番杏科(ice plants)一例&lt;/div&gt;
+&lt;div class=&quot;v&quot;&gt;bioRxiv · 2026-11-19 · 预印本&lt;/div&gt;
+&lt;p&gt;用 39 份番杏科转录组、4845 个直系同源基因树检验快速辐射类群的关系推断:无论怎样过滤基因或替换物种树方法,各亚科关系基本一致,但 Ruschioideae 内部基因树一致性极低;模拟显示内枝过短时,增加基因数目也难解短枝问题。基因重复分析另给出可能驱动辐射适应的候选。&lt;/p&gt;
+&lt;p class=&quot;r&quot;&gt;推荐理由：「再加基因就能解决」在快速辐射里碰到天花板——对系统发育方法边界的一次扎实实证,谱系进化方向值得记一笔。&lt;/p&gt;
+&lt;a href=&quot;https://doi.org/10.64898/2026.11.18.767386&quot;&gt;https://doi.org/10.64898/2026.11.18.767386&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;c&quot;&gt;
+&lt;div class=&quot;t&quot;&gt;6. A conserved role for the transcription factor SUPERMAN in seed development across eudicots&lt;/div&gt;
+&lt;div lang=&quot;zh-CN&quot;&gt;转录因子 SUPERMAN 在真双子叶植物种子发育中的保守功能&lt;/div&gt;
+&lt;div class=&quot;v&quot;&gt;Journal of Experimental Botany · 2026-11-23&lt;/div&gt;
+&lt;p&gt;在拟南芥、蒺藜苜蓿与番茄中的比较分析显示,SUP 及其直系同源蛋白一致定位于珠被及胚乳珠孔端与合点端,但活动时序与组织背景因物种而异;功能缺失分别造成拟南芥胚发育异常与流产率升高、苜蓿早期种子发育受损、番茄胚珠缺陷,拟南芥表型伴随生长素响应改变。&lt;/p&gt;
+&lt;p class=&quot;r&quot;&gt;推荐理由：把一个经典发育基因的「保守与分歧」放进跨物种比较框架讲透,是进化发育研究的干净范例。&lt;/p&gt;
+&lt;a href=&quot;https://doi.org/10.1093/jxb/erag574&quot;&gt;https://doi.org/10.1093/jxb/erag574&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;c&quot;&gt;
+&lt;div class=&quot;t&quot;&gt;7. Integrating redox dynamics and gene networks reveals ROS-mediated control of Arabidopsis seed germination under water stress&lt;/div&gt;
+&lt;div lang=&quot;zh-CN&quot;&gt;整合氧化还原动态与基因网络,揭示水分胁迫下 ROS 对拟南芥种子萌发的调控&lt;/div&gt;
+&lt;div class=&quot;v&quot;&gt;bioRxiv · 2026-11-18 · 预印本&lt;/div&gt;
+&lt;p&gt;PEG 渗透胁迫下的萌发延迟并非仅因吸水减少:胁迫改变过氧化物酶体 H2O2 稳态,介导 ABA 与 GA 代谢向滞育方向再平衡;加权基因共表达网络进一步锁定与 H2O2 产生相关的基因枢纽,并关联到广泛的氧化还原过程与转录、翻译水平的下调。&lt;/p&gt;
+&lt;p class=&quot;r&quot;&gt;推荐理由：ROS 正信号 + WGCNA 找枢纽的完整分析链,是胁迫—萌发网络研究可复用的套路。&lt;/p&gt;
+&lt;a href=&quot;https://doi.org/10.64898/2026.11.16.766966&quot;&gt;https://doi.org/10.64898/2026.11.16.766966&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;c&quot;&gt;
+&lt;div class=&quot;t&quot;&gt;8. Abscisic acid signaling is associated with nitrate accumulation and low nitrate responses in grapevine&lt;/div&gt;
+&lt;div lang=&quot;zh-CN&quot;&gt;脱落酸信号与葡萄硝酸盐积累及低硝响应相关&lt;/div&gt;
+&lt;div class=&quot;v&quot;&gt;Frontiers in Plant Science · 2026-11-18&lt;/div&gt;
+&lt;p&gt;外源 ABA 在低硝条件下提高硝酸盐与总氮含量,在高硝条件下反而降低积累,呈硝态依赖的双向调节;低硝诱导内源 ABA 合成酶基因 VvNCEDs 及多个 VvSnRK2 表达;VvSnRK2.1 与高亲和硝酸盐转运体 VvNRT2.2 互作,过表达株系在低氮下主根更长、鲜重与总氮更高。&lt;/p&gt;
+&lt;p class=&quot;r&quot;&gt;推荐理由：ABA × 硝酸盐信号的交叉做到「激素-转运体」分子对层面,是激素与营养互作的利落案例。&lt;/p&gt;
+&lt;a href=&quot;https://doi.org/10.3389/fpls.2026.2015051&quot;&gt;https://doi.org/10.3389/fpls.2026.2015051&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;c&quot;&gt;
+&lt;div class=&quot;t&quot;&gt;9. RAD: A Read-structure Agnostic Demultiplexer for Single-Cell Long-Read Sequencing and Analysis&lt;/div&gt;
+&lt;div lang=&quot;zh-CN&quot;&gt;RAD:面向单细胞长读序的读取结构无关拆序器&lt;/div&gt;
+&lt;div class=&quot;v&quot;&gt;bioRxiv · 2026-11-20 · 预印本&lt;/div&gt;
+&lt;p&gt;针对长读数据的复杂读结构(如拆分式组合条形码),用户声明接头与条形码相对位置即可快速提取元素;无需短读支持即可从长读数据生成条形码白名单,并对此前未被系统刻画的常见拆序错误提供纠错协议;合成与真实基准中比现有拆序器更快、下游基因表达分析发现力更强,已用于高清长读空间转录组与靶向免疫受体长读数据。&lt;/p&gt;
+&lt;p class=&quot;r&quot;&gt;推荐理由：单细胞长读工作流的第一道坎就是拆序,RAD 的「结构无关」设计对自定义条形码布局的自建实验尤其实用。&lt;/p&gt;
+&lt;a href=&quot;https://doi.org/10.64898/2026.05.29.728810&quot;&gt;https://doi.org/10.64898/2026.05.29.728810&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;c&quot;&gt;
+&lt;div class=&quot;t&quot;&gt;10. A de novo reference genome of the red seaweed Furcellaria lumbricalis&lt;/div&gt;
+&lt;div lang=&quot;zh-CN&quot;&gt;红藻 Furcellaria lumbricalis 的从头参考基因组&lt;/div&gt;
+&lt;div class=&quot;v&quot;&gt;bioRxiv · 2026-11-18 · 预印本&lt;/div&gt;
+&lt;p&gt;用 PacBio HiFi 与纳米孔长读组装出 918.2 Mb、N50 15.5 Mb 的红藻参考基因组(149 个 contig),重复序列占比高达 90.5%;结合 RNA-seq、蛋白同源与从头预测注释出 6100 个基因,82.6% 获功能注释。该物种是波罗的海商业采收、用于提取硫化和多糖 furcellaran 的经济藻类。&lt;/p&gt;
+&lt;p class=&quot;r&quot;&gt;推荐理由：红藻基因组普遍庞大而高度重复,这份高重复度组装与注释经验对藻类基因组资源建设有直接参考价值。&lt;/p&gt;
+&lt;a href=&quot;https://doi.org/10.64898/2026.11.17.767248&quot;&gt;https://doi.org/10.64898/2026.11.17.767248&lt;/a&gt;
+&lt;/div&gt;
+&lt;/body&gt;&lt;/html&gt;
+</description>
+</item>
+<item>
 <title>每日文献推荐 · 2026-11-23</title>
 <link>https://yorks0n.github.io/literature-digest-rss/feed.xml#2026-11-23</link>
 <guid isPermaLink="false">urn:literature-digest:2026-11-23</guid>
