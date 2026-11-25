@@ -17,6 +17,3 @@ Add that URL in any RSS reader (Feedly, NetNewsWire, Reeder, Inoreader, …).
 
 Published from local digests via `zotwatch-workspace/scripts/publish_digest_rss.py`.
 Does **not** use or modify `Yorks0n/zotwatch-feed`.
-
-<!-- latest-digest -->
-最近一期：2026-11-24 · [订阅 RSS](https://yorks0n.github.io/literature-digest-rss/feed.xml)
